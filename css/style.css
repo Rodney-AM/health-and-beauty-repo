@@ -8568,17 +8568,17 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .slider-scale-effect .swiper-slide.slide-bg-1:before {
-	background: url(../images/now.png);
+	background: url(../images/swiper1.PNG);
 	background-size: cover;
 }
 
 .slider-scale-effect .swiper-slide.slide-bg-2:before {
-	background: url(../images/now.png);
+	background: url(../images/swiper2.PNG);
 	background-size: cover;
 }
 
 .slider-scale-effect .swiper-slide.slide-bg-3:before {
-	background: url(../images/now.png);
+	background: url(../images/swiper3.PNG);
 	background-size: cover;
 }
 
